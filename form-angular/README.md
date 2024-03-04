@@ -1,27 +1,18 @@
-# Form
+# ponderada-SPA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+# Single Page Applications
 
-## Development server
+As aplicações de pagina unica (SPA) são aplicações web que carregam uma unica pagina HTML e dinamicamente atualizam essa pagina à medida que o usuario interage com a aplicação.
+A principal vantagem das SPAs é que elas proporcionam uma experiencia de usuario mais suave pois não tem a necessidade de recarregar a pagina do servidor ao solicitar novos dados.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Aplicação da ponderada
 
-## Code scaffolding
+A aplicação da ponderada foi em angular que utiliza a arquitetura baseada em componentes.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Captura de Tela do Codigo em funcionamento
 
-## Build
+<img src="img/img1.jpg">
+Foto do codigo rodando
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img src="img/img2.jpg">
+Foto da aplicação web com um teste de cadastro
